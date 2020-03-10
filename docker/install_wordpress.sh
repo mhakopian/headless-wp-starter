@@ -2,7 +2,7 @@
 
 set -e
 
-mysql_ready='nc -z db-headless 3306'
+mysql_ready='nc -z db-headless 25060'
 
 if ! $mysql_ready
 then
