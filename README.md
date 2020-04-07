@@ -2,6 +2,8 @@
 
 [![Build status](https://travis-ci.org/postlight/headless-wp-starter.svg)](https://travis-ci.org/postlight/headless-wp-starter)
 
+[![Runme](https://svc.runme.io/static/button.svg)](https://runme.io/run?app_id=e82a9c20-9c52-49b5-999e-2c56b0f6d2c9)
+
 [Postlight](https://postlight.com)'s Headless WordPress + React Starter Kit is an automated toolset that will spin up three things:
 
 1.  A WordPress backend that serves its data via the [WP REST API](https://developer.wordpress.org/rest-api/) and [GraphQL](http://graphql.org/).
